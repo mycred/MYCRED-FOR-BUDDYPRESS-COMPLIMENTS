@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED for BuddyPress Compliments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Nov 03 2015 19:55:06 GMT+0100 (CET)\n"
+"PO-Revision-Date: Fri Dec 25 2015 10:36:18 GMT+0100 (CET)\n"
+"Last-Translator: Gabriel Merovingi <gabriel.s@merovingi.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US"
+
+#. Name of the plugin
+msgid "myCRED for BuddyPress Compliments"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Award or deduct points from users in myCRED for sending compliments via the "
+"BuddyPress Compliments plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "Gabriel S Merovingi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.merovingi.com"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:38
+msgid "BuddyPress Compliments"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:39
+msgid "Awards %_plural% to users for sending or receiving compliments."
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:62
+msgid "Giving a Compliment (BuddyPress Compliments)"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:63
+msgid "Receiving a Compliment (BuddyPress Compliments)"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:188
+msgid "Giving a Compliment"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:194 ../mycred-buddypress-compliments.php:
+#: 211
+msgid "Limit"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:198 ../mycred-buddypress-compliments.php:
+#: 215
+msgid "Log template"
+msgstr ""
+
+#: ../mycred-buddypress-compliments.php:205
+msgid "Receiving a Compliment"
+msgstr ""
